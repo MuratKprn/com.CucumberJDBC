@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a66488-4506-432a-bc1e-9b9cb1ce09f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/Select.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/Update.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Manage/QueryManage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Runner/OuterRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/StepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/JDBCReusableMethods.java" afterDir="false" />
-    </list>
+    <list default="true" id="09a66488-4506-432a-bc1e-9b9cb1ce09f0" name="Changes" comment="09/02/2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -123,27 +113,52 @@
       <option name="presentableId" value="Default" />
       <updated>1707428088912</updated>
     </task>
+    <task id="LOCAL-00001" summary="09/02/2024">
+      <option name="closed" value="true" />
+      <created>1707429994838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707429994838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
+    <option name="RECENT_FILTERS">
       <map>
-        <entry key="ce63aead-d7fd-42d9-8799-08d866e453f0" value="TOOL_WINDOW" />
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:C:/Users/murat/IdeaProjects/com.CucumberJDBC/target" />
+                  <option value="dir:C:/Users/murat/IdeaProjects/com.CucumberJDBC/src" />
+                  <option value="file:$PROJECT_DIR$/pom.xml" />
+                  <option value="file:$PROJECT_DIR$/configuration.properties" />
+                  <option value="dir:C:/Users/murat/IdeaProjects/com.CucumberJDBC/.idea" />
+                  <option value="file:$PROJECT_DIR$/.gitignore" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
-          </value>
-        </entry>
-        <entry key="ce63aead-d7fd-42d9-8799-08d866e453f0">
-          <value>
-            <State />
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="09/02/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="09/02/2024" />
   </component>
 </project>
